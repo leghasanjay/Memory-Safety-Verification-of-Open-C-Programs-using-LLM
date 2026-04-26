@@ -18,7 +18,6 @@ This repository contains the project files under the `AvTesting/` folder:
 
 - `scripts/`
   - `final.py`
-  - `final2.py`
   - `compile_single_file_from_c_to_bpl.py`
   - `compile_single_file_from_bpl_to_bpl_inst.py`
   - `compile_simple_set_cfiles_to_inst_bpl.py`
