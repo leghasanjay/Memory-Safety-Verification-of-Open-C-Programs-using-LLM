@@ -1,0 +1,6 @@
+*.bpl
+*_inst*
+benchmark_results.csv
+__pycache__/
+.ipynb_checkpoints/
+.vagrant/
